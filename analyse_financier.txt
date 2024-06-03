@@ -1,0 +1,8 @@
+Le TRR est un Tableau qui permet a rectifier les valeurs d'un bilan fonctionnel 
+
+a travers ce tableau on peut faire le passage d'un bilan fonctionnel a un bilan financiere 
+
+
+
+
+
